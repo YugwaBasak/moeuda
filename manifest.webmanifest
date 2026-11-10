@@ -1,7 +1,7 @@
 {
-  "name": "모으다 — 나만의 아이디어 서랍",
+  "name": "모으다 — 작은 생각을 모아",
   "short_name": "모으다",
-  "description": "작은 생각을 모아, 나만의 세상을 만들다",
+  "description": "생각을 모으는 작은 서랍",
   "lang": "ko",
   "start_url": "./",
   "scope": "./",
